@@ -22,13 +22,13 @@ author: Pulkit Mahajan
 navbar-links:
   About Me: "aboutme"
   Resources: 
-    - Photography: "photography"
-    - Projects: "projects"
-    - Work Experience: "workExperience"
-    - Academics: "academics"
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Photography: "pages/photography"
+    - Projects: "pages/projects"
+    - Work Experience: "pages/workExperience"
+    - Academics: "pages/academics"
+    # - Beautiful Jekyll: "https://beautifuljekyll.com"
+    # - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://pulkit-m.github.com"
 
 ################
 # --- Logo --- #
