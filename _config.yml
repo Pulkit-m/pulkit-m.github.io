@@ -21,7 +21,7 @@ author: Pulkit Mahajan
 
 navbar-links:
   About Me: "aboutme"
-  Resources
+  Resources: 
     - Photography: "photography"
     - Projects: "projects"
     - Work Experience: "workExperience"
