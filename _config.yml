@@ -4,7 +4,7 @@
 ### set up your website you should go through all these settings and edit them, but after
 ### the initial set up you won't need to come back to this file often.
 ###########################################################
-
+remote-theme: daattali/beautiful-jekyll@6.0.1
 ############################
 # --- Required options --- #
 ############################
@@ -20,11 +20,12 @@ author: Some Person
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "./_pages/aboutme" 
+  Projects: "./_layouts/projects"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://Pulkit-m.github.io"
 
 ################
 # --- Logo --- #

@@ -33,8 +33,8 @@ layout: base
 
       {% if page.before-content %}
         <div class="before-content">
+            <div>What is before-content?</div>
           {% for file in page.before-content %}
-          <div>What is before-content?</div>
             {% include {{ file }} %}
           {% endfor %}
         </div>
@@ -55,8 +55,8 @@ layout: base
 
       {% if page.after-content %}
         <div class="after-content">
-          {% for file in page.after-content %}
-          <div>what is after content?</div>
+          {% for file in page.after-content %} 
+            <div>what is after content?</div>
             {% include {{ file }} %}
           {% endfor %}
         </div>
