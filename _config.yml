@@ -21,7 +21,7 @@ author: Pulkit Mahajan
 
 navbar-links:
   About Me: "aboutme" 
-  Projects: "projects"
+  Projects: "/projects"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -282,7 +282,7 @@ defaults:
     values:
       layout: "page"
 
-include: ["_pages"]
+
 
 # Exclude these files from production site
 exclude:
