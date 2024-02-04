@@ -20,8 +20,8 @@ author: Some Person
 ###############################################
 
 navbar-links:
-  About Me: "/_pages/aboutme" 
-  Projects: "/_pages/projects"
+  About Me: "aboutme" 
+  Projects: "projects"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -281,6 +281,8 @@ defaults:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
+
+include: ["_pages"]
 
 # Exclude these files from production site
 exclude:
