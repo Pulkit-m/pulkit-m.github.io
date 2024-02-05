@@ -17,11 +17,11 @@ author: Pulkit Mahajan
 
 ###############################################
 # --- List of links in the navigation bar --- #
-###############################################
+####################f###########################
 
 navbar-links:
   About Me: "aboutme" 
-  Projects: "/projects"
+  Projects: "projects"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -283,6 +283,9 @@ defaults:
       layout: "page"
 
 
+collections:
+  projects:
+    output: true
 
 # Exclude these files from production site
 exclude:

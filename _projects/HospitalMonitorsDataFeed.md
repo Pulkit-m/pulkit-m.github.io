@@ -1,13 +1,13 @@
 ---
 layout: project
-title: Stereo Image Super Resolution
-subtitle: 4X Super Resolution of Rectified Stereo Images
-permalink: /projects/sisr/  
+title: Hospital Monitor Data Feed
+subtitle: Reading information from live feed of Hospital monitors
+permalink: /projects/interiit/  
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
-author: Pulkit Mahajan, Shreyas Chatterjee, Sahaj Mistry, Dr. Vinit Jakhetiya
+author: Pulkit Mahajan, Shreyas Chatterjee, Dhiraj Kiran Pimparkar
 ---
 <h1>Kuch to dikhai de na bhai...</h1>
 
