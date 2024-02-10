@@ -9,9 +9,6 @@ share-img: /assets/img/path.jpg
 tags: [books, test]
 author: Pulkit Mahajan, Shreyas Chatterjee, Dhiraj Kiran Pimparkar
 ---
-<h1>Kuch to dikhai de na bhai...</h1>
-
 This is where the contents of the project would go. Preferably. 
 
-tell all the points about BTP. 
-Tell all the points about getting global rank 7 and all. 
+When I got to see how big the world really was, that I had known this all along and yet I ignored everything on purpose and chose to live in my own fantacies. 
