@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Workshop on Introduction to Reinforcement Learning
-subtitle: Workshop conducted in Collaboration with IIT Jammu, and Deeplearning.ai
+subtitle: Workshop conducted in Collaboration with Coding Club,IIT Jammu and Deeplearning.ai
 # gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]
 thumbnail-img: /assets/img/reinforcement-learning/pie-ai.jpg
