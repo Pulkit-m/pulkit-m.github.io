@@ -7,7 +7,7 @@ cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/interiit/thumb.png
 share-img: /assets/img/path.jpg
 tags: [Automation, Computer Vision]
-author: Dhiraj Kiran Pimparkar, Pulkit Mahajan, Shreyas Chatterjee 
+author: Dhiraj Kiran Pimparkar, Pulkit Mahajan, Shreyas Chatterjee, Shubham Awasthi
 ---
 
 There are still a vast number of Hospitals in India where the Vitals monitors are not synced to some cloud. Modern machines do come equipped with that functionality, though. The objective of the `Vitals Extraction Challenge`, Inter IIT Tech Meet 11.0 hosted by IIT Kanpur, was to To extract Heart Rate, SPO2, Respiration Rate, Systolic Blood Pressure, 
