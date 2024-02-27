@@ -44,7 +44,7 @@ These are the exact dependencies that would get you started:
 </dependency>  
 ```
 
-```Java 
+```java 
 // Resource file: This is the same as controller if your familiar with Spring framework. 
 // LoginResource.java
 @Path("/login/token")  
@@ -66,7 +66,7 @@ public class LoginResource {
     }    
 }
 ```
-```Java
+```java
 // Proxy interface to call the rest services. : 
 // RemoteServerProxy.java 
 @RegisterRestClient(baseUri = "http://localhost:8081")  
@@ -82,7 +82,7 @@ public interface RemoteServerProxy {
                                 @FormParam("password") String password)
 }
 ```
-```Java
+```java
 // Simple Java POJO for mapping KeyCloak's Response:
 // AuthResponseDTO.java
 @Getter  
